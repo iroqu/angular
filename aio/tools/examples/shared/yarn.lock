@@ -215,10 +215,10 @@
   dependencies:
     tslib "^2.3.0"
 
-"@angular/localize@^16.0.0-next.0":
-  version "16.0.0-next.0"
-  resolved "https://registry.yarnpkg.com/@angular/localize/-/localize-16.0.0-next.0.tgz#a87f3977cd78e2040fc7a2ee15101ecf68470fc3"
-  integrity sha512-Ea/HxJDbWKSZHCaOPTUHVbgMa8wboMgtJ6mINHKveV1ge1i+lc1kdkMNdtNxKehYhLjfvNLmrxKDY+J4ORxpZA==
+"@angular/localize@^16.0.0":
+  version "16.0.0"
+  resolved "https://registry.yarnpkg.com/@angular/localize/-/localize-16.0.0.tgz#5018ff93cff12f6faf0d4f033fd1a713b81b2dc3"
+  integrity sha512-e2rii7pj4bUTwLbjIaW2rmIFqijLM1zDN42LuiacPxgT1ICMgEECZ20ViZ4x5GMK1Szi1Rj67Aq90/NGco6HxQ==
   dependencies:
     "@babel/core" "7.19.3"
     glob "8.1.0"
