@@ -231,7 +231,6 @@
 
 "@angular/build-tooling@https://github.com/angular/dev-infra-private-build-tooling-builds.git#41978bf945da83211adf3d69c7abdef85aa2f172":
   version "0.0.0-8b7f6b94197d14448c7fcc0e1bd4aa74a66f99aa"
-  uid "41978bf945da83211adf3d69c7abdef85aa2f172"
   resolved "https://github.com/angular/dev-infra-private-build-tooling-builds.git#41978bf945da83211adf3d69c7abdef85aa2f172"
   dependencies:
     "@angular-devkit/build-angular" "16.0.0-next.4"
@@ -365,7 +364,6 @@
 
 "@angular/ng-dev@https://github.com/angular/dev-infra-private-ng-dev-builds.git#ba69e3362a24e4ad638d7a04a386e9b863a23b4a":
   version "0.0.0-8b7f6b94197d14448c7fcc0e1bd4aa74a66f99aa"
-  uid ba69e3362a24e4ad638d7a04a386e9b863a23b4a
   resolved "https://github.com/angular/dev-infra-private-ng-dev-builds.git#ba69e3362a24e4ad638d7a04a386e9b863a23b4a"
   dependencies:
     "@yarnpkg/lockfile" "^1.1.0"
@@ -7834,8 +7832,7 @@ domhandler@^4.2.0, domhandler@^4.3.1:
     domelementtype "^2.2.0"
 
 "domino@https://github.com/angular/domino.git#aa8de3486307f57a518b4b0d9e5e16d9fbd998d1":
-  version "2.1.6+git"
-  uid aa8de3486307f57a518b4b0d9e5e16d9fbd998d1
+  version "2.1.6"
   resolved "https://github.com/angular/domino.git#aa8de3486307f57a518b4b0d9e5e16d9fbd998d1"
 
 domutils@^2.8.0:
@@ -14288,10 +14285,15 @@ requirejs-config-file@^4.0.0:
     esprima "^4.0.0"
     stringify-object "^3.2.1"
 
-requirejs@^2.3.5, requirejs@^2.3.6:
+requirejs@^2.3.5:
   version "2.3.6"
   resolved "https://registry.yarnpkg.com/requirejs/-/requirejs-2.3.6.tgz#e5093d9601c2829251258c0b9445d4d19fa9e7c9"
   integrity sha512-ipEzlWQe6RK3jkzikgCupiTbTvm4S0/CAU5GlgptkN5SO6F3u0UD0K18wy6ErDqiCyP4J4YYe1HuAShvsxePLg==
+
+requirejs@^2.3.7:
+  version "2.3.7"
+  resolved "https://registry.yarnpkg.com/requirejs/-/requirejs-2.3.7.tgz#0b22032e51a967900e0ae9f32762c23a87036bd0"
+  integrity sha512-DouTG8T1WanGok6Qjg2SXuCMzszOo0eHeH9hDZ5Y4x8Je+9JB38HdTLT4/VA8OaUhBa0JPVHJ0pyBkM1z+pDsw==
 
 requires-port@^1.0.0:
   version "1.0.0"
